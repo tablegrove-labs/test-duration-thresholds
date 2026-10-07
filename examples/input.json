@@ -1,0 +1,13 @@
+{
+  "threshold_ms": 100,
+  "tests": [
+    {
+      "name": "slow",
+      "duration_ms": 150
+    },
+    {
+      "name": "fast",
+      "duration_ms": 20
+    }
+  ]
+}
